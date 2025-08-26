@@ -1,0 +1,5 @@
+kivy==2.3.1
+python==3.13.5
+setuptools
+pyjnius
+android  # Только для Android (работает через python-for-android)
