@@ -21,7 +21,7 @@ from kivy.utils import get_color_from_hex
 Window.clearcolor = get_color_from_hex("#121212")
 Window.size = (400, 600)
 
-SERVER_IP = '95.165.142.216'
+SERVER_IP = 'IP_SERVER'
 PORT = 5555
 
 IS_ANDROID = False
